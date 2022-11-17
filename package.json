@@ -16,7 +16,7 @@
     "vue": "^2.5.16"
   },
   "devDependencies": {
-    "@neutrinojs/vue": "^8.2.1",
+    "@neutrinojs/vue": "^8.3.0",
     "neutrino": "^8.2.1"
   }
 }
